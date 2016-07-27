@@ -1,0 +1,11 @@
+.metabox
+{
+    margin: auto;
+    padding: 10px;
+    background-color: red;
+
+}
+#bookName
+{
+    float: left;
+}
